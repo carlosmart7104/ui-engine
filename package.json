@@ -1,0 +1,16 @@
+{
+  "name": "capas-de-abstraccion-y-generacion-automatica",
+  "dependencies": {
+    "@nuxtjs/vuetify": "1.11.2",
+    "nuxt": "latest",
+    "reqlim": "0.0.0"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "keywords": [],
+  "description": ""
+}
